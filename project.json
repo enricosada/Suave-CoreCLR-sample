@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "Microsoft.FSharp.Core.netcore": "1.0.0-alpha-*",
-    "Suave": "2.0.0-alpha4"
+    "Suave": "2.0.0-alpha5"
   },
   "tools": {
     "dotnet-compile-fsc": {
